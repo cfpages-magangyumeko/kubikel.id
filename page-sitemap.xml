@@ -1,32 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//kubikel.id/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/</loc>
+		<loc>https://kubikel.id/</loc>
 		<lastmod>2023-03-28T06:48:42+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/office-open-space-office-room-945348.jpg</image:loc>
+			<image:loc>https://kubikel.id/wp-content/uploads/2023/03/office-open-space-office-room-945348.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/species-hygiene-home-2089547.jpg</image:loc>
+			<image:loc>https://kubikel.id/wp-content/uploads/2023/03/species-hygiene-home-2089547.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/oilseed-rape-power-pole-field-of-rapeseeds-450155.jpg</image:loc>
+			<image:loc>https://kubikel.id/wp-content/uploads/2023/03/oilseed-rape-power-pole-field-of-rapeseeds-450155.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/cubicle-panel.jpg</image:loc>
+			<image:loc>https://kubikel.id/wp-content/uploads/2023/03/cubicle-panel.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/cubicle-kantor.png</image:loc>
+			<image:loc>https://kubikel.id/wp-content/uploads/2023/03/cubicle-kantor.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/05/testimonial-03-free-img.jpg</image:loc>
+			<image:loc>https://kubikel.id/wp-content/uploads/2021/05/testimonial-03-free-img.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/05/testimonial-12-free-img.jpg</image:loc>
+			<image:loc>https://kubikel.id/wp-content/uploads/2021/05/testimonial-12-free-img.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/laman-contoh/</loc>
+		<loc>https://kubikel.id/laman-contoh/</loc>
 		<lastmod>2023-03-21T06:43:07+00:00</lastmod>
 	</url>
 </urlset>
